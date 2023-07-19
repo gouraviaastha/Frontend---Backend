@@ -1,0 +1,24 @@
+.head{
+    margin-top: 20px;
+    color:  rgb(255, 255, 255);
+    height: 500px;
+    width:  400px;
+    padding: 10px;
+    border-radius: 5px;
+    background-image: linear-gradient(180deg, rgba(20, 114, 246, 0.496), rgb(47, 47, 75));
+}
+
+.contain{
+    display: flex;
+    justify-content:  center;
+    width:  50%;
+    margin-top:  100px;
+    margin-left: 25%;
+
+}
+
+.btn button{ 
+    display: flex;
+    justify-content: center;
+    margin-left:  125%
+    }

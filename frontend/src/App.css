@@ -1,0 +1,24 @@
+.img{ 
+  border-radius: 40%;
+  background-color: rgb(221, 176, 186);
+}
+
+.container{
+  height: 800px;
+   width: 40%;
+   margin : 0px 25% ;
+   
+}
+
+table{
+  border : 1px solid grey
+}
+h3{
+  color:grey ; 
+  margin-left: 10px ; 
+}
+.para{
+  background-color: rgba(216, 224, 224, 0.23);
+  height:  50px;
+  width:  100%;
+}
